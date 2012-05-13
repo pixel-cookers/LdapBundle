@@ -1,0 +1,9 @@
+{
+    "name": "OpenSky/LdapBundle",
+    "autoload": {
+        "psr-0": { "OpenSky": "" }
+    },
+    "require": {
+        "brikou/zend_ldap": "dev-master"
+    }
+}
